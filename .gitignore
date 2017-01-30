@@ -1,0 +1,8 @@
+# ignore raw dataset (too big)
+
+/adience/misc
+
+/adience/faces*/
+
+
+/adience/*.mat
